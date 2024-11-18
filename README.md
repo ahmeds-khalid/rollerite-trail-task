@@ -12,4 +12,4 @@ A fully-featured Discord ticket bot built with [Nextcord](https://github.com/nex
 ### Using MySQL
 ![image2](https://i.postimg.cc/tJJp0M9S/mysql-Ticket-Creation.gif)
 ### Using SQLite
-![image3](https://i.postimg.cc/MKcqdNPX/sqlite-Ticket-Creation.gif)
+[![sqlite-Ticket-Creation.gif](https://i.postimg.cc/MKcqdNPX/sqlite-Ticket-Creation.gif)](https://postimg.cc/qzdP7bdd)
