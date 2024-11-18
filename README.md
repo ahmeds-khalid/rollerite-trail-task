@@ -7,9 +7,9 @@ A fully-featured Discord ticket bot built with [Nextcord](https://github.com/nex
 - 🛠️ Easy to set up and customize for your Discord server.  
 
 ## Assets  
-# Using MongoDB
+### Using MongoDB
 ![image1](https://i.postimg.cc/3RnYcTQ0/mongo-Ticket-Creation.gif)
-# Using MySQL
+### Using MySQL
 ![image2](https://i.postimg.cc/tJJp0M9S/mysql-Ticket-Creation.gif)
-# Using SQLite
+### Using SQLite
 ![image3](https://i.postimg.cc/MKcqdNPX/sqlite-Ticket-Creation.gif)
